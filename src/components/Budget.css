@@ -1,0 +1,48 @@
+.budget-app {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: black;
+}
+
+.budget__title {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 48px;
+}
+
+.budget__subtitle {
+    text-align: center;
+    font-size: 25px;
+}
+
+.budget-main-app {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.result {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.amount {
+    font-size: 52px;
+}
+
+.back-arrow {
+    font-size: 50px;
+    position: absolute; 
+    top: 20px;
+    left: 50px;
+    color: white;
+    text-decoration: none;
+    transition: .4s;
+}
+
+.back-arrow:hover {
+    color: white;
+    transform: scale(1.1);
+}

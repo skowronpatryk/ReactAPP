@@ -1,0 +1,29 @@
+.pizza-menu {
+    background-color: white;
+    color: black;
+}
+
+.pizza-menu h2 {
+    margin-left: 20%;
+    font-weight: 700;
+}
+
+.single-pizza-list {
+    border: 1px solid white;
+    padding: 20px;
+    margin: 20px 0;
+    position: relative;
+    width: 80%;
+}
+
+.pizza-list-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 30px;
+}
+
+.single-pizza-list__price {
+    font-size: 20px;
+    font-weight: 700;
+}

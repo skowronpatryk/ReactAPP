@@ -1,0 +1,32 @@
+.pizza-address-title {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.label-address {
+    color: black;
+    font-weight: 700;
+}
+
+#emailHelp {
+    font-weight: 700;
+}
+
+.close-address-btn {
+    position: absolute;
+    top: 0;
+    right: 20px;
+    background: none;
+    font-size: 40px;
+    font-weight: 700;
+    border: none;
+    transition: .4s all;
+}
+
+.close-address-btn:hover {
+    transform: scale(1.2);
+}
+.close-address-btn:focus {
+    outline: none;
+}

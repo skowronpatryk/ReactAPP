@@ -1,0 +1,115 @@
+.pizza__order {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.pizza__order h3 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.order__basket {
+    font-size: 60px;
+    position: relative;
+    margin-top: 50px;
+    left: 50%;
+    transform: translateX(-50%)
+}
+
+.pizza__order_title {
+    margin-top: 20px;
+    font-size: 70px;
+    text-align: center;
+}
+
+.pizza__order_title h2 {
+    font-weight: 700;
+}
+
+.pizza__order__order {
+    margin-top: 20px;
+}
+
+.pizza__order__info {
+    margin-top: 20px;
+}
+
+.pizza__order__info__pizzacost {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pizza__order__info__deliverycost {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pizza__order__info__totalcost {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pizza_order__button {
+    text-align: center;
+}
+
+.pizza_order__button button {
+    margin-top: 20px;
+    padding: 10px 50px;
+    font-size: 30px;
+    font-weight: 700;
+    width: 100%;
+    background: none;
+    border: 1px solid black;
+    transition: .4s all;
+}
+
+.pizza_order__button button:hover {
+    background: black;
+    border: 1px solid white;
+    color: white;
+}
+
+.pizza__order__list {
+    border: 1px solid rgba(0, 0, 0, .4);
+    margin-top: 10px;
+    padding: 5px 20px;
+    position: relative;
+}
+
+.pizza__order__list h2 {
+    font-weight: 700;
+}
+
+.pizza__order__list p {
+    font-weight: 700;
+}
+
+.pizza__order__list__button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    outline: none;
+}
+
+.pizza__order__list__button button {
+    padding: 5px 10px;
+    background: none;
+    border: none;
+    font-weight: 700;
+    font-size: 30px;
+    outline: none;
+    transition: .4s all;
+}
+
+.pizza__order__list__button button:hover {
+    transform: scale(1.2);
+}
+
+.pizza__order__list__button button:active {
+    outline: none;
+}
+
+.pizza__order__list__button button:focus {
+    outline: none;
+} 

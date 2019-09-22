@@ -1,0 +1,8 @@
+.pizza-header {
+    background: url('../../image/header-pizza.jpg');
+    padding: 100px 0;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,111 @@
+.todo-main {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 100%;
+    background: black;
+    overflow: hidden;
+}
+
+
+form {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.form-group {
+    margin: 30px auto 10px auto!important;
+}
+
+.btn-todo {
+    background: white!important;
+    color: black!important;
+    padding: 5px;
+    width: 10%;
+    font-size: 18px!important;
+    font-weight: 700!important;
+    transition: .3s all!important;
+}
+
+.btn-todo:hover {
+    background: none!important;
+    border: 1px solid white!important;
+    color: white!important;
+}
+
+.todo-grid {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.date-string {
+    font-size: 22px;
+}
+
+.todo-item {
+    background: white;
+    color: black;
+    height: 150px;
+    position: relative;
+    width: 80%;
+    margin-left: 14%;
+    margin-top: 5%;
+    margin-bottom: 8%;
+}
+
+.todo-icon {
+    color: white;
+    font-size: 60px;
+    position: absolute;
+    top: -22px;
+    left: -32px;
+    transform: rotateZ(-30deg);
+}
+
+.todo-title {
+    font-size: 40px;
+    line-height: 150px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.todo-del {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 5px;
+    background: none;
+    border: 1px solid black;
+    border-top: none;
+    border-right: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.todo-edit {
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    padding: 5px 30px;
+    background: black;
+    color: white;
+    border: 1px solid white;
+    transform: translateX(-50%);
+}
+
+.error {
+    text-align: center;
+    padding: 5px;
+    font-size: 15px;
+}
+
+.error-g {
+    background: green;
+}
+
+.error-b {
+    background: red;
+}

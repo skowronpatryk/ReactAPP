@@ -1,0 +1,33 @@
+.pizza-opinion {
+    position: relative;
+}
+
+.pizza-title h2 {
+    font-size: 45px;
+    padding: 0;
+    margin: 15px 0 0 0;
+}
+
+.pizza-stars {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.pizza-subtitle {
+    font-size: 18px;
+}
+
+.pizza-your-creator {
+    position: absolute;
+    left: -350px;
+    top: 60px;
+    padding: 10px 0 2px 0;
+    transform: rotate(0.92turn);
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    cursor: pointer;
+}
+
+.creator-subtitle {
+    margin-left: 2px;
+}

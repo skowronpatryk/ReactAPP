@@ -1,0 +1,105 @@
+.property {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: black;
+    overflow: hidden;
+}
+
+.property-nav {
+    padding: 5px;
+    background: white;
+    color: black;
+}
+
+.property-nav h2, .property-nav p {
+    font-weight: bold;
+}
+
+.property-nav p {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.property-menu-wrapper {
+    background: white;
+    color: black;
+    min-height: 100vh;
+}
+
+.property-menu-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.filter-text {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.house-wrapper {
+    overflow: hidden;
+    height: 370px;
+    background: white;
+    margin-top: 1rem;
+    color: black;
+    font-weight: bold;
+}
+
+.house-img img {
+    height: 250px;
+    width: 100%;
+}
+
+.house-info h2{
+    margin-left: 20px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.house-info p {
+    margin-left: 20px;
+}
+
+.house-more-info {
+    margin: 0 20px 0 20px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 22px;
+}
+
+.house-more-info span {
+    margin-left: 20px;
+}
+
+.info-property {
+    width: 50%;
+    height: 50%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    background: white;
+    color: black;
+    transform: translate(-50%, -50%);
+    z-index: 999;
+}
+
+.info-property h1 {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.info-property div {
+    text-align: center;
+}
+
+.goback {
+    padding: 5px 20px;
+    background: black;
+    color: white;
+    border: none;
+    outline: none;
+    font-size: 30px;
+}

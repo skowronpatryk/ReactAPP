@@ -1,0 +1,37 @@
+.headerItem {
+    margin-top: 50px;
+    width: 100%;
+    text-align: center;
+    height: 100%;
+
+}
+
+.headerIcon {
+    font-size: 80px;
+}
+
+.headerItem__main {
+    border: 1px solid rgba(255, 255, 255, .5);
+    padding: 50px 0;
+    position: relative;
+}
+
+.headerItem__button {
+    position: absolute;
+    left: 50%;
+    top: 90%;
+    transform: translateX(-50%);
+}
+
+a.headerItem__button__btn {
+    color: black;
+    background: white;
+    padding: 2px 10px;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+a.headerItem__button__btn:hover {
+    text-decoration: none;
+}
