@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/skowronpatryk/ReactAPP/static/css/main.0747f39b.chunk.css",
+    "main.js": "/skowronpatryk/ReactAPP/static/js/main.f58ba5c6.chunk.js",
+    "main.js.map": "/skowronpatryk/ReactAPP/static/js/main.f58ba5c6.chunk.js.map",
+    "runtime~main.js": "/skowronpatryk/ReactAPP/static/js/runtime~main.c4ce25bb.js",
+    "runtime~main.js.map": "/skowronpatryk/ReactAPP/static/js/runtime~main.c4ce25bb.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/skowronpatryk/ReactAPP/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.4f9df473.chunk.js": "/skowronpatryk/ReactAPP/static/js/2.4f9df473.chunk.js",
+    "static/js/2.4f9df473.chunk.js.map": "/skowronpatryk/ReactAPP/static/js/2.4f9df473.chunk.js.map",
+    "index.html": "/skowronpatryk/ReactAPP/index.html",
+    "precache-manifest.127f16784cb424843c5237c4d9ad28c7.js": "/skowronpatryk/ReactAPP/precache-manifest.127f16784cb424843c5237c4d9ad28c7.js",
+    "service-worker.js": "/skowronpatryk/ReactAPP/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/skowronpatryk/ReactAPP/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.0747f39b.chunk.css.map": "/skowronpatryk/ReactAPP/static/css/main.0747f39b.chunk.css.map",
+    "static/media/cheese.png": "/skowronpatryk/ReactAPP/static/media/cheese.a68ffee2.png",
+    "static/media/PizzaHeader.css": "/skowronpatryk/ReactAPP/static/media/header-pizza.57883a77.jpg",
+    "static/media/mushrooms.png": "/skowronpatryk/ReactAPP/static/media/mushrooms.bf3e4084.png",
+    "static/media/pizza.png": "/skowronpatryk/ReactAPP/static/media/pizza.32162181.png",
+    "static/media/rukola.png": "/skowronpatryk/ReactAPP/static/media/rukola.4684e4ec.png",
+    "static/media/salami.png": "/skowronpatryk/ReactAPP/static/media/salami.1580be39.png",
+    "static/media/tomato.png": "/skowronpatryk/ReactAPP/static/media/tomato.c33c9f59.png"
+  }
+}
